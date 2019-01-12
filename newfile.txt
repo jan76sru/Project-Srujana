@@ -1,6 +1,0 @@
-This am learnig the git and guthub difference and curent is git diff
-
-1. Iam know git in brach for update
-
-
-
